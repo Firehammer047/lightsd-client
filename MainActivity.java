@@ -1,6 +1,6 @@
 /*
 	lightsd-client is an Android app for communicating 
-	with the lightd server running on an Arduino.
+	with the lightsd server running on an Arduino.
 
 	Copyright (c) 2014 GB Tony Cabrera
 */
